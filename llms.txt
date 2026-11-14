@@ -1,20 +1,35 @@
 # Chantal Mental Health Counseling
 
-> Online therapy (secure video) for teens (13-17) and adults anywhere in New York State, with Chantal Amoussou, LMHC-D, a Licensed Mental Health Counselor in New York. Sessions in English, French and Mina.
+> Online therapy (secure video) for children (6+), teens and adults anywhere in New York State, with Chantal Amoussou, LMHC-D, CASAC, ADHD-CCSP, a Licensed Mental Health Counselor in New York. Sessions in English, French and Mina.
 
-- Services: therapy for anxiety, depression, substance use, bipolar disorder, OCD and stress. Approaches include cognitive behavioral therapy (CBT), motivational interviewing and trauma-informed care. No couples counseling.
+- Credentials: LMHC-D (New York); CASAC (New York); ADHD-Certified Clinical Services Provider; certified in anger management; Master's in Mental Health Counseling (Long Island University, Brooklyn); MPH.
+- Ages: 6 and up. Clients under 18 start care with a parent or guardian. No couples counseling, no medication prescribing.
 - Format: online only (telehealth) for clients located in New York State. No in-person office.
-- Hours: 7 am to 10 pm Eastern, 7 days a week, by appointment.
+- Hours (Eastern): Monday to Friday 7 to 10 am; Saturday and Sunday 7 to 9 pm. Sessions of 30 or 53 minutes.
 - Fees: self-pay $200 per session.
-- Insurance accepted: Aetna, Cigna, Optum, Oxford, Tricare East. Coverage is confirmed before the first session.
+- Insurance accepted: Aetna, Carelon, Cigna, Curative, Fidelis Care, First Health, Medicare, Optum, Oxford, Tricare East. Coming soon: New York Medicaid. Coverage is confirmed before the first session.
 - Phone: (516) 614-4116 (answered 24/7 by a virtual assistant who takes callback requests)
 - Email: chantal@chantalmentalhealth.com (please do not send health details by email)
 - Request an appointment: https://chantalmentalhealth.com/request-appointment/
 - Crisis: this practice is not for emergencies. Call or text 988, or call 911 if in immediate danger.
 
+## Services
+- [Immigration evaluations](https://chantalmentalhealth.com/services/immigration-evaluations/): Psychosocial evaluations and mental health impact reports for immigration cases, for individuals and attorneys.
+- [Trauma & domestic violence](https://chantalmentalhealth.com/services/trauma-domestic-violence/): Trauma-informed support for survivors of domestic violence, trauma and PTSD.
+- [Mental health assessments](https://chantalmentalhealth.com/services/assessments/): Diagnostic, depression, anxiety, trauma and substance use assessments, with treatment recommendations.
+- [Anxiety](https://chantalmentalhealth.com/services/anxiety/): Worry, racing thoughts and tension that get in the way of daily life.
+- [Depression](https://chantalmentalhealth.com/services/depression/): Low mood, loss of interest and feeling stuck, with steady support to move forward.
+- [ADHD](https://chantalmentalhealth.com/services/adhd/): Focus, organization and follow-through, for children, teens and adults.
+- [Substance use](https://chantalmentalhealth.com/services/substance-use/): Support for changing your relationship with alcohol or drugs, from a CASAC.
+- [Anger management](https://chantalmentalhealth.com/services/anger-management/): Understand what sets you off and respond in ways you feel good about.
+- [Children & teens](https://chantalmentalhealth.com/services/children-teens/): Therapy for ages 6 to 17, with parents involved along the way.
+- [Bipolar disorder](https://chantalmentalhealth.com/services/bipolar/): Tools to understand mood shifts, build routines and stay steady.
+- [OCD](https://chantalmentalhealth.com/services/ocd/): Practical, evidence-based strategies for intrusive thoughts and compulsions.
+- [Stress](https://chantalmentalhealth.com/services/stress/): Work, family and life transitions, with space to breathe and regroup.
+
 ## Pages
 - [Home](https://chantalmentalhealth.com/)
-- [About Chantal Amoussou, LMHC-D](https://chantalmentalhealth.com/about/)
+- [About Chantal Amoussou](https://chantalmentalhealth.com/about/)
 - [Services](https://chantalmentalhealth.com/services/)
 - [Insurance & fees](https://chantalmentalhealth.com/insurance-fees/)
 - [Request an appointment](https://chantalmentalhealth.com/request-appointment/)

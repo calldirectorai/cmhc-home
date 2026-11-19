@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chantalmentalhealth.com/sitemap.xml
+Sitemap: https://newrootsmentalhealth.com/sitemap.xml

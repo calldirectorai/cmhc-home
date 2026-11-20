@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://newrootsmentalhealth.com/sitemap.xml
+Sitemap: https://newgrovementalhealth.com/sitemap.xml

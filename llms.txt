@@ -1,10 +1,10 @@
 # New Grove Mental Health
 
-> Online therapy (secure video) for children (6+), teens and adults anywhere in New York State, with Chantal Amoussou, LMHC-D, CASAC, ADHD-CCSP, a Licensed Mental Health Counselor in New York. Sessions in English, French and Mina; couples counseling and sessions in Haitian Creole with a clinician on her team.
+> Online therapy (secure video) for children (6+), teens and adults anywhere in New York State, with Chantal Amoussou, LMHC-D, CASAC, ADHD-CCSP, a Licensed Mental Health Counselor in New York. Sessions in English, French and Mina; couples counseling in English or Haitian Creole with Emma Collado, MHC-LP (Mental Health Counselor, limited permit), under Chantal's clinical supervision.
 
 - Credentials: LMHC-D (New York); CASAC (New York); ADHD-Certified Clinical Services Provider; certified in anger management; Master's in Mental Health Counseling (Long Island University, Brooklyn); MPH.
 - LGBTQ+ affirming care: LGBTQ+ clients are welcome.
-- Ages: 6 and up. Clients under 18 start care with a parent or guardian. Couples counseling available with a clinician on her team (self-pay, $200 per session, English or Haitian Creole). No medication prescribing.
+- Ages: 6 and up. Clients under 18 start care with a parent or guardian. Couples counseling available with Emma Collado, MHC-LP, under Chantal's supervision (self-pay, $200 per session, English or Haitian Creole). No medication prescribing.
 - Format: online only (telehealth) for clients located in New York State. No in-person office.
 - Hours (Eastern): Monday to Friday 7 am to noon and 4 to 10 pm; Saturday and Sunday 7 am to 9 pm. Sessions of 30 or 53 minutes.
 - Fees: self-pay $200 per session.
@@ -27,7 +27,7 @@
 - [Bipolar disorder](https://newgrovementalhealth.com/services/bipolar/): Tools to understand mood shifts, build routines and stay steady.
 - [OCD](https://newgrovementalhealth.com/services/ocd/): Practical, evidence-based strategies for intrusive thoughts and compulsions.
 - [Stress](https://newgrovementalhealth.com/services/stress/): Work, family and life transitions, with space to breathe and regroup.
-- [Couples counseling](https://newgrovementalhealth.com/services/couples-counseling/): Communication, conflict and reconnecting, with a clinician on Chantal's team, in English or Haitian Creole. Self-pay $200 per session.
+- [Couples counseling](https://newgrovementalhealth.com/services/couples-counseling/): Communication, conflict and reconnecting, with Emma Collado, MHC-LP, under Chantal's supervision, in English or Haitian Creole. Self-pay $200 per session.
 
 ## Pages
 - [Home](https://newgrovementalhealth.com/)
@@ -36,3 +36,10 @@
 - [Insurance & fees](https://newgrovementalhealth.com/insurance-fees/)
 - [Request an appointment](https://newgrovementalhealth.com/request-appointment/)
 - [En français](https://newgrovementalhealth.com/fr/)
+
+## Patients and policies
+- [Patient portal](https://newgrove.intakeq.com/portal): Secure IntakeQ portal for current clients (forms, documents, appointments, invoices, secure messages).
+- [FAQ](https://newgrovementalhealth.com/faq/): Getting started, insurance, fees, languages, couples counseling and the portal.
+- [Notice of Privacy Practices](https://newgrovementalhealth.com/notice-of-privacy-practices/)
+- [Website Privacy Policy](https://newgrovementalhealth.com/privacy/)
+- [Good Faith Estimate](https://newgrovementalhealth.com/insurance-fees/#good-faith-estimate): Self-pay and uninsured clients can ask for a written estimate.

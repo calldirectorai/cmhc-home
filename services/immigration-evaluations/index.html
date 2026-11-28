@@ -208,16 +208,13 @@ footer h3{text-transform:none;letter-spacing:0;font-size:1.05rem}
 <p>Chantal is a licensed mental health counselor with diagnostic privilege (LMHC&#8209;D). She works in English, French and Mina, which helps many francophone and West African clients tell their story in their own language.</p>
 <ul class="check"><li>Fee and timeline confirmed before scheduling</li><li>Report written for the filing you are preparing</li><li>Trauma-informed, including for domestic violence survivors</li><li>Prefer to call? <a href="tel:+15166144116"><b>(516) 614-4116</b></a></li></ul></div>
 <div class="req">
-<button class="btn btn-teal" id="req-open" type="button" aria-expanded="false" aria-controls="req-panel">Open the referral form</button>
-<div id="req-status" role="status" aria-live="polite"></div>
-<div id="req-panel"><div id="req-host"></div></div>
-<div id="req-thanks" role="status" aria-live="polite"></div>
-<p class="note" style="margin-top:12px">Contact details only. Please don't include case facts or health information. Chantal will call within one business day to discuss scope and timing.</p>
+<a class="btn btn-teal" href="../../refer/">Refer a client</a>
+<p class="note" style="margin-top:12px">For attorneys and doctors. Contact details only, with your client's consent. Chantal contacts your client within 24 hours and confirms back to you.</p>
 </div>
 </div></section>
 <section class="alt"><div class="wrap split">
 <div><h2>Common questions</h2></div>
-<div><details><summary>Which immigration cases do you write evaluations for?</summary><p>Asylum, VAWA, U Visa, T Visa and extreme hardship waivers. If your case is different, ask Chantal.</p></details><details><summary>How much does an evaluation cost?</summary><p>$1,500 flat per evaluation, including the clinical interview, screening and written report. A rush report is $300 more. Evaluations are self-pay.</p></details><details><summary>How long does the report take?</summary><p>Within 14 days of the final interview. Rush reports are available for tight filing deadlines.</p></details><details><summary>Can the evaluation be done in French?</summary><p>Yes. Evaluations are available in English, French and Mina.</p></details><details><summary>I'm an immigration attorney. How do I refer a client?</summary><p>Use the referral form on this page, or call (516) 614-4116. Please share contact details only, not case facts or health information. Chantal will call to discuss scope and timing.</p></details><details><summary>Is the evaluation covered by insurance?</summary><p>Evaluations for legal purposes are usually not covered by insurance. Ongoing therapy afterwards can be billed to insurance.</p></details></div>
+<div><details><summary>Which immigration cases do you write evaluations for?</summary><p>Asylum, VAWA, U Visa, T Visa and extreme hardship waivers. If your case is different, ask Chantal.</p></details><details><summary>How much does an evaluation cost?</summary><p>$1,500 flat per evaluation, including the clinical interview, screening and written report. A rush report is $300 more. Evaluations are self-pay.</p></details><details><summary>How long does the report take?</summary><p>Within 14 days of the final interview. Rush reports are available for tight filing deadlines.</p></details><details><summary>Can the evaluation be done in French?</summary><p>Yes. Evaluations are available in English, French and Mina.</p></details><details><summary>I'm an immigration attorney. How do I refer a client?</summary><p>Use the <a href="../../refer/">referral page</a>, or call (516) 614-4116. Please share contact details only, not case facts or health information. Chantal will call to discuss scope and timing.</p></details><details><summary>Is the evaluation covered by insurance?</summary><p>Evaluations for legal purposes are usually not covered by insurance. Ongoing therapy afterwards can be billed to insurance.</p></details></div>
 </div></section>
 <section><div class="wrap"><p class="note">Related: <a href="../../services/trauma-domestic-violence/">Trauma & domestic violence</a> · <a href="../../services/assessments/">Mental health assessments</a> · <a href="../../services/anxiety/">Anxiety</a> · <a href="../../services/depression/">Depression</a> · <a href="../../services/">All services</a></p></div></section>
 <section class="closing"><div class="wrap"><img src="https://app.calldirector.ai/objects/quick-uploads/2126/5e2756e0f8bdede4.jpg" alt="Chantal Amoussou, LMHC-D, licensed mental health counselor" width="88" height="88" loading="lazy"><div class="txt"><h2>Ready to take the first step?</h2><p>Send a request and Chantal will reach out within one business day.</p></div><a class="btn btn-gold" href="../../request-appointment/" data-p="request">Request an appointment</a></div></section></main>
@@ -267,41 +264,6 @@ footer h3{text-transform:none;letter-spacing:0;font-size:1.05rem}
     g.querySelector('.x').addEventListener('click', function(){ hideGreet(); clearTimeout(gt2); });
     g.querySelector('.open').addEventListener('click', function(){ openChat(); });
   }
-})();
-</script>
-<script>(function(){
-  // Attorney referral form: zero-spam gate (no form markup until a real person opens it, 3 s after load)
-  var btn = document.getElementById('req-open'); if (!btn) return;
-  var panel = document.getElementById('req-panel'), host = document.getElementById('req-host'),
-      status = document.getElementById('req-status'), thanks = document.getElementById('req-thanks');
-  var t0 = Date.now(), loaded = false, loading = false, waitT = null, thanksT = null, collapseT = null;
-  function inject(){
-    if (loaded || loading) return; loading = true;
-    var s = document.createElement('script'); s.src = 'https://app.calldirector.ai/forms-embed.js';
-    s.setAttribute('data-form', 'l3g7x06f'); s.setAttribute('data-theme','light'); s.setAttribute('data-accent','#1F4E5A'); s.setAttribute('data-surface','#FFFFFF'); s.setAttribute('data-bg','#FFFFFF'); s.setAttribute('data-field','#FFFFFF'); s.setAttribute('data-text','#1E2A2E'); s.setAttribute('data-gradient','0'); s.async = true;
-    s.onload = function(){ loaded = true; loading = false; status.textContent = ''; };
-    s.onerror = function(){ loading = false; status.textContent = 'Sorry, the form could not load. Please use the chat assistant instead.'; };
-    host.appendChild(s);
-  }
-  function open(ev){
-    if (!ev.isTrusted) return;
-    if (navigator.webdriver) { status.textContent = 'Please call (516) 614-4116 to refer a client.'; return; }
-    panel.classList.add('open'); btn.setAttribute('aria-expanded','true'); thanks.textContent = '';
-    var wait = 3000 - (Date.now() - t0);
-    if (wait > 0) { status.textContent = 'One moment...'; clearTimeout(waitT); waitT = setTimeout(inject, wait); }
-    else inject();
-  }
-  ['pointerdown','keydown'].forEach(function(t){ btn.addEventListener(t, function(e){ if (t==='keydown' && e.key!=='Enter' && e.key!==' ') return; open(e); }); });
-  btn.addEventListener('click', function(e){ e.preventDefault(); });
-  window.addEventListener('paymegpt-form:submitted', function(){
-    clearTimeout(collapseT);
-    collapseT = setTimeout(function(){
-      panel.classList.remove('open'); btn.setAttribute('aria-expanded','false');
-      host.innerHTML = ''; loaded = false; loading = false; clearTimeout(waitT); status.textContent = '';
-      thanks.textContent = 'Thank you. Your referral was received. Chantal will call within one business day.';
-      clearTimeout(thanksT); thanksT = setTimeout(function(){ thanks.textContent = ''; }, 12000);
-    }, 3500);
-  });
 })();
 </script>
 <script src="https://app.calldirector.ai/widget.js" data-widget="40084743" async></script>
